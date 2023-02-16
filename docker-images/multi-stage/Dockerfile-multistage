@@ -1,0 +1,4 @@
+FROM maven:3.6-alpine
+
+
+FROM openjdk:8-alpine
